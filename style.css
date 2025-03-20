@@ -17,7 +17,7 @@ p {
     margin-bottom: 18px;
 }
 
-/* General */
+/* ========== General ============ */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -28,7 +28,7 @@ body {
     margin: 0 auto;
 }
 
-/* Background */
+/* ============ Background colors ============ */
 
 .dark-bg {
     background-color: #1F2937;
@@ -38,7 +38,7 @@ body {
     background-color: #E5E7EB;
 }
 
-/* Text */
+/* ============ Text ============ */
 
 .header-txt {
     color: #F9FAF8;
@@ -53,7 +53,7 @@ body {
     text-align: center;
 }
 
-/* Link styles */
+/* ============ Link styles ============ */
 
 a.btn {
     background-color: #3882F6;
@@ -68,7 +68,7 @@ a.white-border {
     border: 2px solid white;
 }
 
-/* Flex */
+/* ============ Flex ============ */
 .flex {
     display: flex;
 }
