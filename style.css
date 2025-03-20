@@ -55,6 +55,10 @@ body {
 
 /* ============ Link styles ============ */
 
+a {
+    white-space: nowrap;
+}
+
 a.btn {
     background-color: #3882F6;
     padding: 8px 32px;
@@ -187,10 +191,6 @@ div:has(.callout) {
 
 .callout p {
     margin: 0;
-}
-
-.callout a {
-    white-space: nowrap;
 }
 
 /* Footer */
