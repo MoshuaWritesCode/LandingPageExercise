@@ -106,6 +106,10 @@ header {
     padding: 16px 0;
 }
 
+nav {
+    gap: 32px;
+}
+
 /* Navigation */
 
 .navlinks {
